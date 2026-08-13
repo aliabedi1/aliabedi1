@@ -18,41 +18,6 @@ I'm a backend developer who enjoys practical software: clear APIs, portable setu
 
 > Good software should feel obvious to use and calm to maintain.
 
-## Things I've been making
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 Agent Skills</h3>
-      Portable, versioned skills for Codex and Claude Code—with safe cross-platform installers and updates.
-      <br><br>
-      <a href="https://github.com/aliabedi1/agent-skills"><strong>Explore the skills →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧳 Portable Shell Aliases</h3>
-      One familiar command-line toolkit across Bash, Zsh, Git Bash, and PowerShell.
-      <br><br>
-      <a href="https://github.com/aliabedi1/portable-shell-aliases"><strong>See the shortcuts →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📸 Keepsake</h3>
-      A local-first Instagram highlight archiver that preserves story order and exports clean ZIP files.
-      <br><br>
-      <a href="https://github.com/aliabedi1/instagram-highlight-downloader"><strong>Open Keepsake →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 Diabetes Assistant</h3>
-      A Laravel and React app for keeping glucose readings and medical activity organized.
-      <br><br>
-      <a href="https://github.com/aliabedi1/diabetes-assistant-api"><strong>View the API →</strong></a>
-      ·
-      <a href="https://github.com/aliabedi1/diabetes-assistant-frontend"><strong>View the UI →</strong></a>
-    </td>
-  </tr>
-</table>
-
 ## My everyday tools
 
 <p>
