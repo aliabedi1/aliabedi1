@@ -39,6 +39,9 @@ Languages and frameworks are tools I choose to fit the job. The goal stays the s
 
 If you're building something thoughtful—or have an awkward workflow worth automating—I'd be glad to hear about it.
 
+<a href="https://flowcv.com/resume/srnal8i8srij">
+  <img src="https://img.shields.io/badge/View_my_CV-B35C44?style=for-the-badge&logo=readme&logoColor=white" alt="View my CV">
+</a>
 <a href="https://t.me/abediali">
   <img src="https://img.shields.io/badge/Say_hello_on_Telegram-EA7C69?style=for-the-badge&logo=telegram&logoColor=white" alt="Say hello on Telegram">
 </a>
