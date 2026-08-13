@@ -5,20 +5,24 @@
 <h1 align="center">Hey, I'm Ali 👋</h1>
 
 <p align="center">
-  <strong>I build useful things for the web—and little tools that make building them feel better.</strong>
+  <strong>I turn real problems into software that's useful, dependable, and pleasant to work with.</strong>
 </p>
 
 <p align="center">
-  Laravel backends · Python automation · developer tooling · a curious amount of shell scripting
+  Problem solving · System design · Product thinking · Thoughtful delivery
 </p>
 
 ## A little about me
 
-I'm a backend developer who enjoys practical software: clear APIs, portable setups, local-first apps, and automation that gives people time back. PHP and Laravel are home base, but I'm happy reaching for Python, JavaScript, or a shell when they fit the problem better.
+I'm a software developer who enjoys taking an idea from a rough problem to a working product. I like understanding what people actually need, breaking complex work into clear parts, and designing systems that can grow without becoming difficult to maintain.
+
+Most of my projects begin with a practical question: **Can this workflow be simpler?** I care about the full journey—from shaping requirements and making technical tradeoffs to documentation and the small details that make software comfortable to use.
+
+Languages and frameworks are tools I choose to fit the job. The goal stays the same: solve the right problem, build it thoughtfully, and leave behind software that remains easy to understand.
 
 > Good software should feel obvious to use and calm to maintain.
 
-## My everyday tools
+## Tools I reach for
 
 <p>
   <img src="https://img.shields.io/badge/PHP-2D2638?style=flat-square&logo=php&logoColor=F4B183" alt="PHP">
