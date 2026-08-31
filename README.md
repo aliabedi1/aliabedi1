@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile-workshop.png" alt="A warm illustrated developer workshop with code, connected tools, and a cup of coffee" width="100%">
-</p>
-
 <h1 align="center">Hey, I'm Ali 👋</h1>
 
 <p align="center">
